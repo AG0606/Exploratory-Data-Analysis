@@ -92,4 +92,23 @@ EDA outputs (visualizations, metrics) can be embedded into BI tools for real-tim
 git clone https://github.com/AG0606/Exploratory-Data-Analysis.git
 cd customer-eda
 jupyter notebook
+```
 
+###Dependecies:
+```bash
+pip install -r requirements.txt
+```
+
+###Project Structure
+```bash
+customer-eda/
+│
+├── EDA_CustomerData.ipynb      # Main analysis notebook
+├── README.md                   # Project documentation
+└── requirements.txt            # Python dependencies
+```
+
+##📌 Future Work
+-Feature engineering for ML models.
+-Deployment of insights into an interactive dashboard (e.g., Streamlit, Dash).
+-Integration with real-time customer data pipelines.
