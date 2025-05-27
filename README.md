@@ -94,12 +94,13 @@ cd customer-eda
 jupyter notebook
 ```
 
-###Dependecies:
+### Dependecies
 ```bash
 pip install -r requirements.txt
 ```
+---
 
-###Project Structure
+### Project Structure
 ```bash
 customer-eda/
 │
@@ -107,8 +108,10 @@ customer-eda/
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
 ```
+---
 
-##📌 Future Work
--Feature engineering for ML models.
--Deployment of insights into an interactive dashboard (e.g., Streamlit, Dash).
--Integration with real-time customer data pipelines.
+## 📌 Future Work
+
+- Feature engineering for ML models.
+- Deployment of insights into an interactive dashboard (e.g., Streamlit, Dash).
+- Integration with real-time customer data pipelines.
