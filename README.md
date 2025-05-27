@@ -106,6 +106,7 @@ customer-eda/
 │
 ├── EDA_CustomerData.ipynb      # Main analysis notebook
 ├── README.md                   # Project documentation
+├── customer_data(2).csv        # Dataset
 └── requirements.txt            # Python dependencies
 ```
 ---
